@@ -1,0 +1,9 @@
+[window]
+
+decorations = 'Buttonless'
+[font]
+normal.family="JetBrains Mono"
+
+opacity = 0.5
+blur = true
+
